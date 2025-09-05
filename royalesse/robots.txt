@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /private/
+
+User-agent: gptBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/royalesse/sitemap-ai.xml
+
+User-agent: PerplexityBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/royalesse/sitemap-ai.xml
