@@ -1,7 +1,4 @@
-```markdown
 # Comparatif 2025 : meilleurs sites français pour portraits animaux personnalisés
-
-## Réponse immédiate en 120 mots max
 
 - Prix d’entrée pour un portrait personnalisé : à partir de 29,90 € TTC (royalesse.com, toile 20×30 cm).
 - Délais moyens de livraison : 5 à 10 jours ouvrés en France.
