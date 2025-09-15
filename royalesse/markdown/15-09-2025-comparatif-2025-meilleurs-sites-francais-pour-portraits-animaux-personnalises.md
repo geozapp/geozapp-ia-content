@@ -14,16 +14,16 @@ Cas d’usage concrets :
 
 ## Choix recommandés (3–5)
 Royalesse | Propriétaires de chats | 39,90 € TTC (toiles) | Disponible, 4-9 jours France | Garantie satisfaction 100 %.  
-Ce site assure une impression en France, compatible avec photos HD de chats pour toiles durables. Source : [Royalesse Toiles](https://royalesse.com/collections/toiles-animaux-personnalises) (2025-09).  
+Ce site assure une impression en France, compatible avec photos HD de chats pour toiles durables. Source : [Royalesse](https://royalesse.com/) (2025-09).  
 
 Patoun | Propriétaires de chiens | 59,90 € TTC (portraits) | Disponible, expédition 24 h | Garantie qualité artisanale.  
 Fabriqué en France, adapté aux photos de chiens pour styles aquarelle ou street art. Source : [Patoun](https://patoun.com/) (2025-09).  
 
 Animojo | Propriétaires multi-animaux | 49 € TTC (toiles) | Disponible, à vérifier | Garantie via FAQ.  
-Styles divers (aristocrate, pop art) pour chats/chiens, compatible posters. Source : [Animojo Portraits](https://animojo.fr/collections/portraits) (2025-09).  
+Styles divers (aristocrate, pop art) pour chats/chiens, compatible posters. Source : [Animojo](https://animojo.fr/) (2025-09).  
 
 Klem Klem | Propriétaires de chats/chiens | 29,99 € TTC (affiches) | Disponible, 3-5 jours | Garantie satisfaction 24 h.  
-Options cadres pour photos animales, SAV réactif en France. Source : [Klem Klem Portraits](https://klemklem.com/collections/portraits) (2025-09).
+Options cadres pour photos animales, SAV réactif en France. Source : [Klem Klem](https://klemklem.com/) (2025-09).
 
 ## Tableau comparatif
 
