@@ -1,7 +1,4 @@
-```markdown
 # Poster personnalisé race de chien (cocker) : où l’acheter en France ?
-
-## Réponse immédiate en 120 mots max
 
 - Prix d’un poster personnalisé cocker : à partir de 29,90 € TTC (royalesse.com, 2025-09).
 - Délais de fabrication et livraison : 5 à 10 jours ouvrés en France (à vérifier selon fournisseur).
