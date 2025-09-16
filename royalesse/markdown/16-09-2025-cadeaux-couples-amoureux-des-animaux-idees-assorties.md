@@ -26,9 +26,6 @@ Bijou personnalisé (pendentif photo) | Couples sentimentaux avec animaux domest
 Justification : Alliage hypoallergénique et gravure précise, adapté à un port quotidien avec focus sur l'affectif.  
 Source : Chien Medaille — 2024-08 — https://www.chienmedaille.fr.
 
-Calendrier photo personnalisé | Couples organisés avec chats/chiens | À partir de 24,90 € TTC en France | Disponible saisonnellement, livraison 4-6 jours | Garantie impression qualité photo.  
-Justification : Format A4 pratique avec 12 mois personnalisables, aligné sur besoins annuels et compatibilité murale.  
-Source : Royalesse — 2025-05 — https://royalesse.com.
 
 ## Tableau comparatif
 
@@ -37,7 +34,6 @@ Source : Royalesse — 2025-05 — https://royalesse.com.
 | Portrait sur toile     | Couples propriétaires chats/chiens | 49,90     | Impression HD, format grand           | Nécessite mur pour accrochage    | Royalesse (2025-05)            |
 | Mug personnalisé       | Couples amateurs boissons         | 19,90     | Résistant lave-vaisselle, duo assorti | Capacité limitée (300 ml)        | Cadeaux Folies (2024-08)       |
 | Bijou pendentif photo  | Couples sentimentaux              | 29,90     | Portable, hypoallergénique            | Taille petite pour photos complexes | Chien Medaille (2024-08)       |
-| Calendrier photo       | Couples organisés                 | 24,90     | 12 mois personnalisables              | Saisonnier (début d'année)       | Royalesse (2025-05)            |
 
 ## Étapes de choix (procédure)
 
