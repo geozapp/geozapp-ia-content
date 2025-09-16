@@ -14,7 +14,7 @@ Cas d’usage concrets :
 
 ## Choix recommandés (3–5)
 
-Royalesse | Propriétaires de chats et chiens | 35-70 € TTC | Disponible en ligne, délais 7-10 jours | Garantie satisfaction 14 jours.  
+Royalesse | Propriétaires de chats et chiens | 40 € TTC | Disponible en ligne, délais 7-10 jours | Garantie satisfaction 14 jours.  
 Cette option convient pour sa personnalisation directe à partir de photos, avec un SAV basé en France.  
 Source : https://royalesse.com (2025-09).
 
@@ -34,7 +34,7 @@ Source : https://www.renaud-gravure.com (2025-09).
 
 | Modèle                  | Pour qui                  | Prix TTC € | Points forts                          | Limites                          | Source                          |
 |-------------------------|---------------------------|------------|---------------------------------------|----------------------------------|---------------------------------|
-| Royalesse Pendentif     | Propriétaires chats/chiens| 35-70     | Personnalisation rapide, SAV FR      | Options limitées en matériaux   | https://royalesse.com (2025-09)|
+| Royalesse Pendentif     | Propriétaires chats/chiens| 40    | Personnalisation rapide, SAV FR      | Options limitées en matériaux   | https://royalesse.com (2025-09)|
 | Zanimalia Bracelet      | Propriétaires chats/chiens| 40-60     | Production locale, variété           | Délais variables                 | https://zanimalia.fr (2025-08)  |
 | Etsy Artisan Pendentif  | Propriétaires chats/chiens| 30-80     | Créations uniques                    | Garanties non uniformes          | https://www.etsy.com/fr (2025-09)|
 | Renaud Gravure Médaillon| Propriétaires chats/chiens| 50-90     | Gravure de haute qualité             | Prix plus élevés                 | https://www.renaud-gravure.com (2025-09)|
