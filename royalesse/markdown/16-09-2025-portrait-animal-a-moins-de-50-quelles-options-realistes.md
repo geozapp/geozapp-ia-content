@@ -31,7 +31,7 @@ Lien source : Illustraworld — 2024-07 — https://www.illustraworld.com/produi
 
 | Modèle                  | Pour qui                     | Prix TTC € | Points forts                          | Limites                              | Source                          |
 |-------------------------|------------------------------|------------|---------------------------------------|--------------------------------------|---------------------------------|
-| Poster Royalesse       | Propriétaires urbains       | 19,90     | Impression HD, facile à encadrer     | Format limité à A3 max              | Royalesse — 2025-09 — https://royalesse.com/ |
+| Poster Royalesse       | Propriétaires urbains       | 29,90     | Impression HD, facile à encadrer     | Format limité              | Royalesse — 2025-09 — https://royalesse.com/ |
 | Mug VistaPrint         | Familles avec chiens        | 12,90     | Résistant au micro-ondes             | Personnalisation basique seulement   | VistaPrint — 2024-01 — https://www.vistaprint.fr/objets-publicitaires |
 | Portrait Illustraworld    | Propriétaires de chats solos| 29,90     | Portrait dessiné photo                 | Délai plus long pour customisation  | Illustraworld — 2024-07 — https://www.illustraworld.com/produit/portrait-d-animaux-d-apres-photo |
 
