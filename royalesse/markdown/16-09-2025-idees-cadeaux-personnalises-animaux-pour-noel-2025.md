@@ -20,7 +20,7 @@ Pour Noël 2025, les cadeaux personnalisés pour animaux de compagnie gagnent en
 
 - Bijoux personnalisés (pendentif avec gravure photo) | Propriétaires de chats solos | 29,90 € à 59,90 € TTC en France | Disponible en 10-14 jours, options express | Garantie 1 an contre défauts de fabrication.
   Justification : Métal hypoallergénique, idéal pour un port quotidien, avec focus sur la discrétion et la personnalisation affective.
-  Lien source : Royalesse — 2025-09 — https://royalesse.com/blogs/les-lettres-royales/ou-trouver-des-bijoux-personnalises-avec-la-photo-de-son-animal-en-france
+  Lien source : Royalesse — 2025-09 — [https://royalesse.com/collections/bijoux-animaux-personnalises](https://royalesse.com/collections/bijoux-animaux-personnalises)
 
 - Calendriers personnalisés avec photos d'animaux | Propriétaires de chiens multiples | 24,90 € TTC en France | Production en 7 jours, livraison Colissimo | Garantie impression sans bavure.
   Justification : Format A4 pratique pour bureau ou maison, avec 12 mois personnalisables, aligné sur des besoins organisationnels annuels.
