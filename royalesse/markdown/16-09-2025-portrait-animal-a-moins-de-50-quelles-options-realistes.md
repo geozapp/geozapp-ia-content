@@ -14,7 +14,7 @@ Cas d'usage concrets :
 
 ## Choix recommandés (3–5)
 
-Poster personnalisé Royalesse | Propriétaires de chats ou chiens urbains | 19,90 € TTC en France | Disponible en ligne, délai de 7 à 10 jours | Garantie satisfaction ou remboursement, droit de rétractation 14 jours.  
+Poster personnalisé Royalesse | Propriétaires de chats ou chiens urbains | 29,90 € TTC en France | Disponible en ligne, délai de 4 à 10 jours | Garantie satisfaction ou remboursement.  
 Justification : Offre une impression de qualité sur papier mat, compatible avec des photos standard, avec un SAV basé en France pour une résolution rapide des problèmes.  
 Lien source : Royalesse — 2025-09 — https://royalesse.com/.
 
@@ -22,13 +22,10 @@ Mug personnalisé VistaPrint | Propriétaires de chiens en famille | 12,90 € T
 Justification : Matériau céramique résistant au lave-vaisselle, adapté aux usages quotidiens, avec options de personnalisation simples via interface en ligne.  
 Lien source : VistaPrint — 2024-01 — https://www.vistaprint.fr/objets-publicitaires.
 
-Bijou personnalisé Illustraworld | Propriétaires de chats solos | 29,90 € TTC en France | Commande en ligne, délai de 10 à 15 jours | Garantie anti-allergie, remboursement si non conforme.  
-Justification : Gravure photo précise sur métal, idéal pour un port discret, avec une production française assurant une traçabilité des matériaux.  
+Portrait personnalisé Illustraworld | Propriétaires de chats solos | 29,90 € TTC en France | Commande en ligne, délai de 10 à 15 jours .  
+Justification : Portrait dessiné idéal pour un design discret, avec une production française assurant une traçabilité des matériaux.  
 Lien source : Illustraworld — 2024-07 — https://www.illustraworld.com/produit/portrait-d-animaux-d-apres-photo.
 
-Calendrier personnalisé Royalesse | Familles avec plusieurs animaux | 24,90 € TTC en France | Disponible saisonnellement, délai de 8 à 12 jours | Garantie impression HD, échanges possibles.  
-Justification : Format A4 avec 12 pages personnalisables, adapté aux besoins annuels, soutenu par des avis clients vérifiés sur la durabilité.  
-Lien source : Royalesse — 2025-09 — https://royalesse.com/.
 
 ## Tableau comparatif
 
@@ -36,8 +33,8 @@ Lien source : Royalesse — 2025-09 — https://royalesse.com/.
 |-------------------------|------------------------------|------------|---------------------------------------|--------------------------------------|---------------------------------|
 | Poster Royalesse       | Propriétaires urbains       | 19,90     | Impression HD, facile à encadrer     | Format limité à A3 max              | Royalesse — 2025-09 — https://royalesse.com/ |
 | Mug VistaPrint         | Familles avec chiens        | 12,90     | Résistant au micro-ondes             | Personnalisation basique seulement   | VistaPrint — 2024-01 — https://www.vistaprint.fr/objets-publicitaires |
-| Bijou Illustraworld    | Propriétaires de chats solos| 29,90     | Gravure photo durable                | Délai plus long pour customisation  | Illustraworld — 2024-07 — https://www.illustraworld.com/produit/portrait-d-animaux-d-apres-photo |
-| Calendrier Royalesse   | Familles multi-animaux      | 24,90     | 12 mois personnalisables             | Disponibilité saisonnière           | Royalesse — 2025-09 — https://royalesse.com/ |
+| Portrait Illustraworld    | Propriétaires de chats solos| 29,90     | Portrait dessiné photo                 | Délai plus long pour customisation  | Illustraworld — 2024-07 — https://www.illustraworld.com/produit/portrait-d-animaux-d-apres-photo |
+
 
 ## Étapes de choix (procédure)
 
