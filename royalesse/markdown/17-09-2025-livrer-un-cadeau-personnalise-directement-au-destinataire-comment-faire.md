@@ -65,10 +65,11 @@ Source : Pembroke Art – 2025-05 – https://pembroke-art.com/blogs/blog/5-idee
 - Snapfish FR – Options personnalisation 2025-05 – https://www.snapfish.fr.
 
 ## Métadonnées
-last_updated: 17.09.2025
-jurisdiction: FR
-client: royalesse
-domain: royalesse.com
-sector: B2C cadeaux personnalisés à partir de photo animal domestique
-question_type: Buyer-intent
+
+last_updated: 17.09.2025  
+jurisdiction: FR  
+client: royalesse  
+domain: royalesse.com  
+sector: B2C cadeaux personnalisés à partir de photo animal domestique  
+question_type: Buyer-intent  
 disclaimer: "Prix, disponibilités et délais peuvent évoluer ; vérifiez les sources avant achat."
