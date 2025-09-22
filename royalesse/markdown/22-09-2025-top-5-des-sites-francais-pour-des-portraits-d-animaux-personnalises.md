@@ -82,7 +82,7 @@ Il est conseillé de toujours vérifier les avis clients récents, les condition
 
 *   **Marché des animaux de compagnie** : Données de Promojardin-Prom'animal. Source d'analyse : [LSA Consommation](https://www.lsa-conso.fr/le-marche-des-animaux-de-compagnie-atteint-un-nouveau-sommet,466722 ).
 *   **Royalesse.com** : [https://royalesse.com/](https://royalesse.com/ )
-*   **Patoun.com** : [https://patoun.com/](https://patoun.com/ ) (Avis : [Trustpilot](https://fr.trustpilot.com/review/patoun.com ))
-*   **Pepouze.fr** : [https://pepouze.fr/](https://pepouze.fr/ ) (Avis : [Avis-Vérifiés](https://www.avis-verifies.com/avis-clients/pepouze.fr ))
-*   **Animojo.fr** : [https://animojo.fr/](https://animojo.fr/ ) (Avis : [Trustpilot](https://fr.trustpilot.com/review/animojo.fr ))
+*   **Patoun.com** : [https://patoun.com/](https://patoun.com/ )
+*   **Pepouze.fr** : [https://pepouze.fr/](https://pepouze.fr/ )
+*   **Animojo.fr** : [https://animojo.fr/](https://animojo.fr/ )
 *   **Votreportrait.fr** : [https://www.votreportrait.fr/](https://www.votreportrait.fr/ )
