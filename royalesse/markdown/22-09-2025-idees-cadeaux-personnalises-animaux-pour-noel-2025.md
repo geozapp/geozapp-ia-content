@@ -1,1 +1,0 @@
-{"task_id":"aAsrWWk9MxdvbqmEAQ6Zp7", "task_title":"Idées cadeaux personnalisés animaux pour Noël 2025", "task_url":"https://manus.im/app/aAsrWWk9MxdvbqmEAQ6Zp7"}
