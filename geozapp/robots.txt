@@ -1,1 +1,48 @@
+# Rules pour tous les bots
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /orders/
+Disallow: /checkout/
 
+# Bots d'assistants IA (autorisés)
+User-agent: gptBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: Google-Extended
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: PerplexityBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: anthropic-ai
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: MistralBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: CCBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: cohere-ai
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: YouBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: OmgiliBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+
+User-agent: FacebookBot
+Allow: /
+Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
