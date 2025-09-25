@@ -35,7 +35,7 @@ for client in clients:
         if not filename.lower().endswith(".md"):
             continue
         # URL = .../.md (pas de conversion en .html)
-        url = f"https://{SUBDOMAIN_PREFIX}.{client}.{TLD}/{client}/{MARKDOWN_DIRNAME}/{quote(filename)}"
+        url = f"https://{SUBDOMAIN_PREFIX}.{client}.{TLD}/{MARKDOWN_DIRNAME}/{quote(filename)}"
         file_path = os.path.join(markdown_dir, filename)
         lastmod = iso_date_from_mtime(file_path)
 
