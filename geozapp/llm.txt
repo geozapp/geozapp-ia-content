@@ -1,0 +1,5 @@
+# Fichier LLM pour Royalesse
+# Indique aux modèles IA où trouver le contenu optimisé
+
+Sitemap: https://ia.geozapp.com/sitemap-ai.xml
+Contact: info@geozapp.com
