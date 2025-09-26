@@ -1,4 +1,10 @@
-# Rules pour tous les bots
+# Fichier robots.txt optimisé par GEOZAPP
+# Date de mise à jour : 25 septembre 2025
+
+# Règle unique pour le sitemap, applicable à tous les bots
+Sitemap: https://ia.geozapp.com/sitemap-ai.xml
+
+# Règles générales pour les bots non-IA
 User-agent: *
 Disallow: /private/
 Disallow: /admin/
@@ -6,43 +12,51 @@ Disallow: /cart/
 Disallow: /orders/
 Disallow: /checkout/
 
-# Bots d'assistants IA (autorisés)
-User-agent: gptBot
-Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
+# --- Bots d'assistants IA autorisés ---
+# La directive "Allow: /" est la valeur par défaut si rien n'est bloqué,
+# mais nous la laissons pour plus de clarté.
 
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Google
 User-agent: Google-Extended
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
 
-User-agent: PerplexityBot
+# Anthropic
+User-agent: ClaudeBot
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
 
 User-agent: anthropic-ai
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
 
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Mistral
 User-agent: MistralBot
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
 
+# Autres bots IA
 User-agent: CCBot
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
 
 User-agent: cohere-ai
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
 
 User-agent: YouBot
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
 
 User-agent: OmgiliBot
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
 
 User-agent: FacebookBot
 Allow: /
-Sitemap: https://geozapp.github.io/geozapp-ia-content/geozapp/sitemap-ai.xml
