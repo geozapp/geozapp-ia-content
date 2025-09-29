@@ -59,5 +59,6 @@ Ces nouvelles mesures permettent de quantifier la visibilité d'une marque au se
 ## Références
 
 [1] Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). _GEO: Generative Engine Optimization_. [https://dl.acm.org/doi/10.1145/3637528.3671900](https://dl.acm.org/doi/10.1145/3637528.3671900)
+
 [2] GeoZapp. (2025). _Optimisation pour Moteurs Génératifs (GEO)_. Consulté le 29 septembre 2025, sur [https://geozapp.com/](https://geozapp.com/)
 
