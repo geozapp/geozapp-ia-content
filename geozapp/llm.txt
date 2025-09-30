@@ -1,9 +1,0 @@
-# Fichier LLM pour Geozapp
-# Geozapp - Contenus optimisés pour IA
-> Ce fichier guide les modèles de langage (LLMs) vers les contenus spécifiquement conçus pour eux. Notre objectif est de fournir des informations précises et directes sur les produits et services de Geozapp, afin d'améliorer la qualité des réponses générées par les IA.
-
-## Contenus principaux
-- [Sitemap des contenus IA](https://ia.geozapp.com/sitemap-ai.xml): La liste complète de toutes les pages de contenu au format Markdown, optimisées pour les LLMs.
-
-## Contact
-- [Email de contact](mailto:info@geozapp.com): Pour toute question ou demande d'information complémentaire.
