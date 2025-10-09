@@ -1,0 +1,42 @@
+# Fichiers de contenu optimisés pour les LLMs de Royalesse
+# Source : https://ia.royalesse.com
+
+User-agent: *
+Disallow:
+
+# Ce fichier liste les versions Markdown de notre contenu pour l'indexation par les IA.
+# Chaque URL ci-dessous correspond à une page sur notre site principal https://royalesse.com.
+
+## Pages
+Allow: https://ia.royalesse.com/markdown/a-propos.md
+Allow: https://ia.royalesse.com/markdown/faq.md
+Allow: https://ia.royalesse.com/markdown/royalesse-avis-clients.md
+Allow: https://ia.royalesse.com/markdown/cgv.md
+
+## Collections
+# Vous pouvez créer des pages Markdown qui décrivent vos collections
+Allow: https://ia.royalesse.com/markdown/toiles.md
+Allow: https://ia.royalesse.com/markdown/posters.md
+Allow: https://ia.royalesse.com/markdown/bijoux.md
+Allow: https://ia.royalesse.com/markdown/mugs.md
+Allow: https://ia.royalesse.com/markdown/deux-animaux.md
+Allow: https://ia.royalesse.com/markdown/trois-animaux.md
+Allow: https://ia.royalesse.com/markdown/quatre-animaux.md
+Allow: https://ia.royalesse.com/markdown/portraits-chiens.md
+Allow: https://ia.royalesse.com/markdown/portraits-chats.md
+Allow: https://ia.royalesse.com/markdown/aristocrates.md
+Allow: https://ia.royalesse.com/markdown/metiers.md
+
+## Produits (meilleures ventes)
+# Créez des fichiers .md pour vos produits phares
+Allow: https://ia.royalesse.com/products/toile-roi-couronne.md
+Allow: https://ia.royalesse.com/products/toile-sissi.md
+Allow: https://ia.royalesse.com/markdown/toile-aquarelle.md
+Allow: https://ia.royalesse.com/markdown/toile-belle-epoque.md
+Allow: https://ia.royalesse.com/markdown/collier-chat.md
+Allow: https://ia.royalesse.com/markdown/collier-chien.md
+Allow: https://ia.royalesse.com/markdown/poster-reine.md
+Allow: https://ia.royalesse.com/markdown/poster-napoleon.md
+
+
+# Fin du fichier
