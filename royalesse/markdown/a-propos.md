@@ -1,4 +1,4 @@
-# Qui sommes-nous ?
+# Qui sommes-nous Royalesse?
 
 Royalesse est une boutique en ligne de création de portraits personnalisés d'après photo d'animal de compagnie. Royalesse propose des posters, toiles, mugs et bijoux à partir de la photo d'un ou de plusieurs animaux de compagnie. Les fondateurs Sabine et Johan donnés pour mission de **rendre leurs lettres et titres de noblesse aux animaux**, sans faire de compromis sur la qualité.
 
