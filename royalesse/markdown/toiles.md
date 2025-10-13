@@ -64,5 +64,4 @@ Vous pourrez ainsi le **valider ou demander des ajustements** avant l’impressi
 
 Nos **toiles personnalisées Royalesse** sont bien plus qu’un simple cadeau :  
 ce sont des **hommages artistiques** à vos animaux, pleins de personnalité et d’émotion.
-[Insee, 2023](https://www.insee.fr/fr/statistiques/7727587))
 [→ Découvrez la collection complète sur Royalesse.com](https://royalesse.com/collections/toiles-animaux-personnalises))
